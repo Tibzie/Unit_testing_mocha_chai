@@ -1,0 +1,17 @@
+{
+  "name": "calculatortest",
+  "version": "1.0.0",
+  "description": "Testing calculator features",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true",
+    "coverage": "istanbul cover _mocha test/testFeatures.js -x test/*.js"
+  },
+  "author": "Tibor Gazsovics",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
+  }
+}
