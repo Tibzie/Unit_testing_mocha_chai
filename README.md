@@ -24,3 +24,6 @@ Screenshots:
 
 - Coverage summary (html):<br />
   ![coveragehtml](screenshots/istanbulhtmlreport.png)
+  
+- Succesfully built the project:<br />
+  ![travis_ci_success](screenshots/travisci.JPG)
