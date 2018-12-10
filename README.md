@@ -13,8 +13,8 @@ Technologies
 - NodeJS: to create a simple application
 - MochaJS: to provide testing structure
 - Chai: to provide assertions functions
-- Istanbul:
-- Travis-CI:
+- Istanbul: to track statements, branches, function coverage and line coverage
+- Travis-CI: to test and build projects hosted at GitHub.
 
 Screenshots:
 ---
