@@ -16,3 +16,11 @@ Technologies
 
 Screenshots:
 ---
+- Unit tests:<br />
+  ![unittests](screenshots/unit tests.png)
+
+- Coverage summary report:<br />
+  ![coveragesummary](screenshots/istanbul.png)
+
+- Coverage summary (html):<br />
+  ![coveragehtml](screenshots/istanbulhtmlreport.png)
