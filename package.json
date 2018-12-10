@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha || true",
-    "coverage": "istanbul cover _mocha test/testFeatures.js -x test/*.js"
+    "coverage": "istanbul cover _mocha test/testFeatures.js -x test/*.js",
+    "showcoverage": "xdg-open coverage/lcov-report/index.html"
   },
   "author": "Tibor Gazsovics",
   "license": "ISC",
